@@ -20,5 +20,4 @@ class Common {
    this.addToCart.click();
   }
 }
-
 module.exports = { Common };
