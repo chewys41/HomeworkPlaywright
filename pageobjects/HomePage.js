@@ -14,5 +14,5 @@ class HomePage {
       await this.searchBtn.click();
     }
   }
-  
+
   module.exports = { HomePage };
